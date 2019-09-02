@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade do seu Cao</string>
+    <string name="introduza_a_idade_do_seu_c_o">Introduza a idade do seu cão para descobrir a idade em anos humanos:</string>
+    <string name="calcular_idade">Calcular Idade</string>
+</resources>
